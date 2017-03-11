@@ -1,1 +1,1 @@
-# Psychometric memory transcription machine
+# Psychometric Memory Transcription Machine
